@@ -46,3 +46,4 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 - Inspired by the goal of creating a personal library of essential computer science books.
 - Special thanks to resources like [Goodreads](https://www.goodreads.com/) and [ACM Digital Library](https://dl.acm.org/) for inspiration on categories and book organization.
+- 2025 update
